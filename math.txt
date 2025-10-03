@@ -1,0 +1,221 @@
+Mathematics is a fundamental subject in education that deals with the study of numbers, quantities, shapes, and patterns. Key branches include:
+
+- Algebra: The study of mathematical symbols and the rules for manipulating these symbols. It involves solving equations, inequalities, and understanding functions.
+
+- Geometry: The branch of mathematics concerned with properties and relations of points, lines, surfaces, and solids. It includes concepts like area, volume, and theorems such as the Pythagorean theorem.
+
+- Calculus: The mathematical study of continuous change. It has two main branches: differential calculus (rates of change) and integral calculus (accumulation).
+
+- Statistics: The study of data collection, analysis, interpretation, and presentation. It includes probability theory and statistical inference.
+
+- Trigonometry: The study of relationships between the sides and angles of triangles, extended to general triangles and periodic functions.
+
+Mathematics is essential for understanding the world and is used in various fields including science, engineering, economics, and technology.
+The Grade 10 to Grade 12 Mathematics curriculum (often referred to as the FET Phase) focuses on building analytical, problem-solving, and abstract reasoning skills. It covers six core knowledge areas, with an emphasis on Functions, Calculus, and Analytical Geometry for the final years.
+
+Here is a detailed summary of the key concepts you need to master in this phase:
+
+1. Functions and Graphs 📈 (Core of Grade 10-12)
+This is the most heavily weighted section and is foundational for Calculus.
+
+Grade 10 Focus: Introduction to key parent functions:
+
+Linear (y=mx+c)
+
+Quadratic (y=ax 
+2
+ +bx+c)
+
+Hyperbolic (y= 
+x
+a
+​
+ +q)
+
+Exponential (y=a⋅b 
+x
+ +q)
+
+Grade 11/12 Focus:
+
+Trigonometric Functions: Sketching and analyzing the graphs of sine, cosine, and tangent functions, including transformations (amplitude, period, phase shift, vertical shift).
+
+Inverse Functions: Determining the inverse of linear, parabolic, and exponential functions, and understanding the condition for an inverse to be a function (one-to-one mapping).
+
+Transformations: Analyzing the effect of the parameters (a,p,q) on the shape, position, and critical points (intercepts, turning points, asymptotes) of all major functions.
+
+Interpretation: Solving problems using graphs, including finding domain, range, points of intersection, intervals where the function is increasing/decreasing, and intervals where the function is positive/negative.
+
+2. Algebra and Equations ➗
+This involves mastering the manipulative skills needed for all other sections.
+
+Exponents and Surds: Simplifying expressions using the laws of exponents and rationalizing the denominator of surd expressions.
+
+Solving Equations:
+
+Quadratic Equations: Solving by factoring, completing the square, and using the Quadratic Formula (x= 
+2a
+−b± 
+b 
+2
+ −4ac
+
+​
+ 
+​
+ ).
+
+Inequalities: Solving linear and quadratic inequalities and representing solutions on a number line or in interval notation.
+
+Simultaneous Equations: Solving systems of equations involving two variables (usually one linear and one quadratic).
+
+The Nature of Roots (Discriminant): Using the discriminant (Δ=b 
+2
+ −4ac) to determine if the roots of a quadratic equation are real, unequal, equal, or non-real.
+
+Sequences and Series (Grade 12):
+
+Arithmetic Sequences: Finding the general term and the sum of n terms.
+
+Geometric Sequences: Finding the general term, the sum of n terms, and the sum to infinity (S 
+∞
+​
+ = 
+1−r
+a
+​
+ , where −1<r<1).
+
+3. Differential Calculus (Grade 12) 📊
+This is the study of change and is essentially based on Functions.
+
+Limits and First Principles: Introducing the concept of a derivative as a limit and using the definition of the derivative (First Principles) to find the derivative of a function.
+
+Rules of Differentiation: Mastering the power rule for finding the derivative of polynomial functions (f 
+′
+ (x)).
+
+Applications of the Derivative:
+
+Curve Sketching: Using the first derivative (f 
+′
+ (x)=0) to find turning points and analyze the shape of cubic functions.
+
+Rates of Change: Determining instantaneous rates of change.
+
+Optimization: Solving maximum and minimum value problems (e.g., maximizing area or minimizing cost).
+
+4. Analytical Geometry and Trigonometry (Grade 10-12) 📐
+A. Analytical Geometry
+Grade 10/11: Work on the Cartesian plane using formulae for:
+
+Distance between two points.
+
+Midpoint of a line segment.
+
+Gradient (slope) of a line.
+
+Determining the equation of a straight line.
+
+Conditions for parallel (m 
+1
+​
+ =m 
+2
+​
+ ) and perpendicular (m 
+1
+​
+ ×m 
+2
+​
+ =−1) lines.
+
+Grade 12 (The Circle):
+
+Determining the equation of a circle centered at the origin (x 
+2
+ +y 
+2
+ =r 
+2
+ ) or centered at a point (a,b) ((x−a) 
+2
+ +(y−b) 
+2
+ =r 
+2
+ ).
+
+Finding the equation of a tangent to the circle at a given point.
+
+B. Trigonometry
+Grade 10: Defining the six trigonometric ratios (sin,cos,tan,csc,sec,cot) using the Cartesian plane and the CAST diagram to determine the sign of ratios in each quadrant.
+
+Grade 11/12 (Identities and Equations):
+
+Mastering fundamental identities (tanθ= 
+cosθ
+sinθ
+​
+  and sin 
+2
+ θ+cos 
+2
+ θ=1).
+
+Solving general trigonometric equations for θ∈[0 
+∘
+ ;360 
+∘
+ ] or for the general solution.
+
+Compound and Double Angles (Grade 12): Using identities like sin(A±B) and cos(2A) to simplify expressions and solve more complex equations.
+
+2D and 3D Applications: Using the Sine Rule, Cosine Rule, and Area Rule to solve non-right-angled triangles in various geometric and real-world contexts.
+
+5. Euclidean Geometry (Grade 11/12) ⭕
+This section requires proof and logical deduction based on theorems.
+
+Grade 10 Review: Triangles (congruency, similarity), quadrilaterals, and properties of parallel lines.
+
+Grade 11 (Circle Geometry): Mastering key theorems related to circles:
+
+The line from the center perpendicular to a chord bisects the chord.
+
+The angle subtended by an arc at the center is twice the angle subtended at the circumference.
+
+Angles in the same segment are equal.
+
+The angle subtended by a diameter is 90 
+∘
+ .
+
+Properties of a cyclic quadrilateral (opposite angles are supplementary).
+
+Grade 12 (Proportionality and Similarity):
+
+The Proportionality Theorem (or Midpoint Theorem): Relating parallel lines in a triangle to proportional sides.
+
+Similarity: Proving triangles are similar and using this to deduce proportional sides.
+
+Tangent-Chord Theorem: The angle between a tangent and a chord through the point of contact is equal to the angle in the alternate segment.
+
+6. Probability and Data Handling (Statistics) 🎲
+Grade 10/11: Measures of central tendency (mean, median, mode) and dispersion (range, quartiles, inter-quartile range). Representing data using box-and-whisker plots and histograms.
+
+Probability:
+
+Understanding the basic rules of probability (Addition Rule, Complementary Rule).
+
+Differentiating between dependent and independent events.
+
+Using Venn diagrams and tree diagrams to solve probability problems.
+
+Grade 12 (Bivariate Data):
+
+Scatter Plots: Analyzing the relationship between two variables and determining the type and strength of correlation.
+
+Regression: Calculating and interpreting the line of best fit (regression line) to make predictions.
+
+Standard Deviation: A formal measure of the spread of data around the mean.
